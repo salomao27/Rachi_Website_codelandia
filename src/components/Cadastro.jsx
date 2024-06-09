@@ -9,7 +9,7 @@ function Cadastro(){
                 <button className="bg-button_cadastro hover:bg-white hover:text-button_cadastro hover:font-bold hover:duration-500 rounded-3xl px-8 py-2 text-white  font-inter mt-14 drop-shadow-2xl max-md:mt-2">Cadastrar-se</button>
             </div>
             <div className="ml-24 max-md:ml-0">
-                <img src="./public/rafiki.png" alt="" />
+                <img src="rafiki.png" alt="" />
             </div>
             
         </div>
