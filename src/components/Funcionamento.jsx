@@ -21,18 +21,18 @@ function Funcionamento(){
     </div>
         <div className="flex justify-center items-center max-md:flex-col max-md:justify-center">
         <Card 
-            imagePath="./public/user.png" 
+            imagePath="user.png" 
             title="Crie conexões" 
             description="Lorem ipsum dolor sit amet,
             consecteteu."/>
 
         <Card 
-            imagePath="./public/security.png" 
+            imagePath="security.png" 
             title="100% gratuito" 
             description="Lorem ipsum dolor sit amet,
             consecteteu."/>
         <Card 
-            imagePath="./public/happy.png" 
+            imagePath="happy.png" 
             title="Compartilhamento" 
             description="Lorem ipsum dolor sit amet,
             consecteteu."/>
