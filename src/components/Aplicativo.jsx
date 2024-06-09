@@ -17,7 +17,7 @@ function Aplicativo(){
             
             </div>
 
-            <img src="./public/amico.png" alt="" className="mr-6 max-md:hidden"/>
+            <img src="amico.png" alt="" className="mr-6 max-md:hidden"/>
     
         </div>
         </>
