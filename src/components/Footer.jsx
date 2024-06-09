@@ -3,7 +3,7 @@ export default function Footer(){
         <>
         <div className=" mt-16 ">
         <div className="relative  max-md:bg-primary">
-            <img src="./public/footer.png" alt="" className="w-screen max-md:hidden "/>
+            <img src="footer.png" alt="" className="w-screen max-md:hidden "/>
            
             <div className="absolute top-1/3 left-1/3 text-white max-md:left-2 max-md:text-black">
             <div className="flex flex-col mb-16">
