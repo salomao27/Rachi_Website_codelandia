@@ -16,10 +16,10 @@ Rachi é um projeto de serviço abrangente que oferece tudo o que você precisa,
 
 
 ## Desktop
-![Print Desktop](./src/img/print_desktop.png)
+![Print Desktop](print_desktop.png)
 
 ## Mobile
-![Print Mobile](./src/img/print_mobile.png)
+![Print Mobile](print_mobile.png)
 
 ## Tecnologias 
 - React 
